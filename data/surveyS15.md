@@ -16,7 +16,7 @@ Two options listed below:
 
 <div class="highlight">
     <code>
-    > download("https://stat.duke.edu/~mc301/data/surveyS15.csv", destfile = "surveyS15") <br><br>
+    > download("https://stat.duke.edu/~mc301/data/surveyS15.csv", destfile = "surveyS15.csv") <br><br>
     > surveyS15 = read.csv("surveyS15.csv")
     </code>
 </div>
