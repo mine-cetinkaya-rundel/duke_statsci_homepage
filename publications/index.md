@@ -7,6 +7,10 @@ image:
   feature: typewriter.jpg
 ---
 
+<a href="http://scholar.google.com/citations?user=pUoCPM0AAAAJ&hl=en"><i class="ai ai-google-scholar fa-4x"></i></a> &nbsp;
+<a href="https://www.researchgate.net/profile/Mine_Cetinkaya"><i class="ai ai-researchgate fa-4x"></i></a>
+{: style="text-align: center"}
+
 ### Books:
 
 * Diez D.M., Barr C.D., **Çetinkaya-Rundel M.**, Dorazio, L. [OpenIntro: Advanced High School Statistics](https://www.openintro.org/stat/textbook.php?stat_book=aps). 2014.
