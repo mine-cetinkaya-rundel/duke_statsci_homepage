@@ -1,7 +1,7 @@
 ---
 layout: post-light-feature
 title: "Data Expedition - Exploring, Modeling, Predicting, Understanding Paintings in Paris"
-description: "I'm giving a talk at the MA+S Rendezvous on Thursday, Jan 22, 2015, at 4:30pm at Smith Bay 10.e
+description: "I'm giving a talk at the MA+S Rendezvous on Thursday, Jan 22, 2015, at 4:30pm at Smith Bay 10."
 date: 2015-01-20
 ---
 
