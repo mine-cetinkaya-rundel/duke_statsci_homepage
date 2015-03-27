@@ -9,7 +9,13 @@ image:
 
 ### Invited talks:
 
+* [There and back again: Data Analysis and Statistical Inference](https://www.dropbox.com/s/uulfaob31yznz86/cit_ltc_march15.pdf?dl=0), CIT LTC. Durham, NC. March 2015.
+
+* [Data Expedition: Exploring / Modeling / Predicting / Understanding Paintings in Paris](http://stat.duke.edu/~mc301/talks/ma+s_rendezvous_Jan2015.pdf), with van Ginhoven, S. Duke Media Arts + Sciences Rendezvous. Durham, NC. January 2015.
+
 * [Teaching data analysis through the lens of reproducibility](http://stat.duke.edu/~mc301/talks/RSHack_2014.pdf). Reproducible Science Hackathon: Curriculum & Workflow Development. NESCENT. Durham, NC. December 2014.
+
+* [Flipping the classroom](http://stat.duke.edu/~mc301/talks/flipped_classroom_BOT_Dec2014.pdf). Board of Trustees meeting, Duke University. Durham, NC. December 2014.
 
 * [See you / see me: An interactive real-time online course](http://cit.duke.edu/showcase2014/files/2014/09/SeeUSeeMe_CITShowcase2014.pdf). Duke University CIT Showcase. Durham, NC. October 2014.
 
@@ -25,10 +31,16 @@ image:
 
 * [Classroom Response Systems at Duke](http://stat.duke.edu/~mc301/talks/Clickers_CIT2013.pdf), with Murphy, K. CIT Showcase at Duke University. Durham, NC. April 2013.
 
-* [Integrating Team-Based Learning Across Disciplines: Ideas and Challenges](http://stat.duke.edu/~mc301/talks/TBL_CIT2013.pdf). with Vidra, R. abd Gauthier, D. CIT Showcase at Duke University. Durham, NC. April 2013.
+* [Integrating Team-Based Learning Across Disciplines: Ideas and Challenges](http://stat.duke.edu/~mc301/talks/TBL_CIT2013.pdf), with Vidra, R. and Gauthier, D. CIT Showcase at Duke University. Durham, NC. April 2013.
 
 
 ### Presentations and posters:
+
+* [Interactivity online and on-campus: Data Analysis and Statistical Inference](https://www.dropbox.com/s/dc6wh1o60uwd54h/cpc2015_poster.pdf?dl=0), Coursera Partners Conference. Orange County, CA. March 2015. [poster]
+
+* [Data-driven pedagogy](https://www.dropbox.com/s/xs1o66jdo4afnws/data_driven_mcr.pdf?dl=0), Coursera Partners Conference. Orange County, CA. March 2015.
+
+* [DataFest - A Celebration of Data](https://www.dropbox.com/s/gen49e3c7eyoy4h/af2015_datafest.pdf?dl=0), Analytics Forward Unconference. Durham, NC. March 2015.
 
 * [Teaching to the Masses](http://stat.duke.edu/~mc301/talks/TeachToMasses_JSM2014.pdf). Joint Statistical Meetings. Boston, MA. August 2014.
 
