@@ -9,7 +9,7 @@ image:
 
 ### Currently teaching (Spring 2015):
 
-* [Sta 101 - Data Analysis and Statistical Inference](https://stat.duke.edu/courses/Spring15/sta101.001/) :: <small>[SOURCE ON GITHUB](https://github.com/mine-cetinkaya-rundel/sta101_sp15)</small>
+* [Sta 104 - Data Analysis and Statistical Inference](https://stat.duke.edu/courses/Summer15/sta104.01-1/) :: <small>[SOURCE ON GITHUB](https://github.com/mine-cetinkaya-rundel/sta104_su15)</small>
 
 ### Coursera:
 
@@ -23,6 +23,7 @@ image:
 ### Past semesters:
 
 * Sta 101 - Data Analysis and Statistical Inference
+    + [Spring 2015](https://stat.duke.edu/courses/Spring15/sta101.001/) :: <small>[SOURCE ON GITHUB](https://github.com/mine-cetinkaya-rundel/sta101_sp15)
     + [Fall 2014](https://stat.duke.edu/courses/Fall14/sta101.001/)
     + [Fall 2013](https://stat.duke.edu/courses/Fall13/sta101/)
     + [Spring 2013](https://stat.duke.edu/courses/Spring13/sta101.001/)

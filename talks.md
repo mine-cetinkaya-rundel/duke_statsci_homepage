@@ -9,6 +9,12 @@ image:
 
 ### Invited talks:
 
+* [Bass Connections: Coursera and the Future of MOOCs](https://www.dropbox.com/s/nsay66h8053nn02/library_firstwed_may15.pdf?dl=0). Duke Libraries First Wednesday Series. Durham, NC. May 2015.
+
+* [Bayesian baby steps](https://bitly.com/bayesian_baby_steps), VA CSP Biostatistics Subdomain: April Methodology Call. April 2015.
+
+* [Data Expedition: Exploring / Modeling / Predicting / Understanding Paintings in Paris](https://www.dropbox.com/s/q43654i6qap34ud/datascisem_dataexpedition_Apr15.pdf?dl=0), with van Ginhoven, S. iiD Data Science Series. Durham, NC. May 2015.
+
 * [There and back again: Data Analysis and Statistical Inference](https://www.dropbox.com/s/uulfaob31yznz86/cit_ltc_march15.pdf?dl=0), CIT LTC. Durham, NC. March 2015.
 
 * [Data Expedition: Exploring / Modeling / Predicting / Understanding Paintings in Paris](http://stat.duke.edu/~mc301/talks/ma+s_rendezvous_Jan2015.pdf), with van Ginhoven, S. Duke Media Arts + Sciences Rendezvous. Durham, NC. January 2015.
@@ -35,6 +41,11 @@ image:
 
 
 ### Presentations and posters:
+
+
+* [Connecting data, analysis, and results using a reproducible framework](https://bitly.com/reproduce_uscots15_slides), with Horton, N. United States Conference On Teaching Statistics. State College, PA. May 2015.
+
+* [Raising better scientsts](https://bitly.com/reproduce_uscots15_slides). Duke Tech Expo 2015. Durham, NC. April 2015.
 
 * [Interactivity online and on-campus: Data Analysis and Statistical Inference](https://www.dropbox.com/s/dc6wh1o60uwd54h/cpc2015_poster.pdf?dl=0), Coursera Partners Conference. Orange County, CA. March 2015. [poster]
 
