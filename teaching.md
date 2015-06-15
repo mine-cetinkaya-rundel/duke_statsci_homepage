@@ -7,7 +7,7 @@ image:
   feature: classroom.jpg
 ---
 
-### Currently teaching (Spring 2015):
+### Currently teaching (Summer 2015):
 
 * [Sta 104 - Data Analysis and Statistical Inference](https://stat.duke.edu/courses/Summer15/sta104.01-1/) :: <small>[SOURCE ON GITHUB](https://github.com/mine-cetinkaya-rundel/sta104_su15)</small>
 
