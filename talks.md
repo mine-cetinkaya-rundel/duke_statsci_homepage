@@ -9,6 +9,10 @@ image:
 
 ### Invited talks:
 
+* [Teaching to, and learning from, the masses](https://www.dropbox.com/s/s5sp6ly5zsatlfd/jsm2015_teach_to_learn_from_masses.pdf?dl=0). Joint Statistical Meetings. Seattle, WA. August 2015.
+
+* [Expanding R exposure through early introduction in the undergraduate curriculum](https://github.com/mine-cetinkaya-rundel/rsummit-2015). R Summit. Copenhagen, Denmark. June 2015.
+
 * [Bass Connections: Coursera and the Future of MOOCs](https://www.dropbox.com/s/nsay66h8053nn02/library_firstwed_may15.pdf?dl=0). Duke Libraries First Wednesday Series. Durham, NC. May 2015.
 
 * [Bayesian baby steps](https://bitly.com/bayesian_baby_steps), VA CSP Biostatistics Subdomain: April Methodology Call. April 2015.
@@ -40,8 +44,9 @@ image:
 * [Integrating Team-Based Learning Across Disciplines: Ideas and Challenges](http://stat.duke.edu/~mc301/talks/TBL_CIT2013.pdf), with Vidra, R. and Gauthier, D. CIT Showcase at Duke University. Durham, NC. April 2013.
 
 
-### Presentations and posters:
+### Contributed presentations and posters:
 
+* [Using R, RStudio, and Docker for introductory statistics teaching](https://github.com/mine-cetinkaya-rundel/useR-2015). useR. Aalborg, Denmark. July 2015.
 
 * [Connecting data, analysis, and results using a reproducible framework](https://bitly.com/reproduce_uscots15_slides), with Horton, N. United States Conference On Teaching Statistics. State College, PA. May 2015.
 

@@ -7,14 +7,15 @@ image:
   feature: classroom.jpg
 ---
 
-### Currently teaching (Summer 2015):
+### Currently teaching (Fall 2015):
 
-* [Sta 104 - Data Analysis and Statistical Inference](https://stat.duke.edu/courses/Summer15/sta104.01-1/) :: <small>[SOURCE ON GITHUB](https://github.com/mine-cetinkaya-rundel/sta104_su15)</small>
+* [Sta 101](https://stat.duke.edu/courses/Fall15/sta101.002/) :: <small>[SOURCE ON GITHUB](https://github.com/mine-cetinkaya-rundel/sta101_f15)</small>
+* [Sta 112FS](https://stat.duke.edu/courses/Fall15/sta112.01/) :: <small>SOURCE ON GITHUB - to be posted soon</small>
 
 ### Coursera:
 
 * [Data Analysis and Statistical Inference](https://www.coursera.org/course/statistics)
-    + February 2014, September 2014, March 2015
+    + September 2015, March 2015, September 2014, February 2014
 * [Specialization: Reasoning, Data Analysis and Writing](https://www.coursera.org/specialization/reasoning/8?utm_medium=courseDescripTop)
     + January 2015
 * [Teaching Statistical Thinking](https://www.coursera.org/course/teachstats1)
@@ -32,6 +33,7 @@ image:
     + [Fall 2011](https://stat.duke.edu/courses/Fall11/sta101.02/)
 
 * Sta 104 - Data Analysis and Statistical Inference (Online)
+    + [Summer 2015](https://stat.duke.edu/courses/Summer15/sta104.01-1/) :: <small>[SOURCE ON GITHUB](https://github.com/mine-cetinkaya-rundel/sta104_su15)</small>
     + [Summer 2014](https://stat.duke.edu/courses/Summer14/sta104.01-1/)
     + [Summer 2013](https://stat.duke.edu/courses/Summer13/sta104.01-1/)
 

@@ -13,9 +13,9 @@ image:
 
 ### Books:
 
+* Diez D.M., Barr C.D., **Çetinkaya-Rundel M.**. [OpenIntro: Statistics (Third Edition)](https://www.openintro.org/os). 2015.
 * Diez D.M., Barr C.D., **Çetinkaya-Rundel M.**, Dorazio, L. [OpenIntro: Advanced High School Statistics](https://www.openintro.org/stat/textbook.php?stat_book=aps). 2014.
 * Diez D.M., Barr C.D., **Çetinkaya-Rundel M.**. [OpenIntro: Introductory Statistics with Randomization and Simulation](https://www.openintro.org/stat/textbook.php?stat_book=isrs). 2014.
-* Diez D.M., Barr C.D., **Çetinkaya-Rundel M.**. [OpenIntro: Statistics (Second Edition)](https://www.openintro.org/stat/textbook.php?stat_book=os). 2014.
 
 
 ### Peer Reviewed & Invited Papers:
