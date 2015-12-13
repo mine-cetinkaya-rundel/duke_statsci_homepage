@@ -16,12 +16,9 @@ Two options listed below:
 
 <div class="highlight">
     <code>
-    > download("https://stat.duke.edu/~mc301/data/surveyS15.csv", destfile = "surveyS15.csv") <br><br>
-    > surveyS15 = read.csv("surveyS15.csv")
+    survey <- read.csv("https://stat.duke.edu/~mc301/data/surveyS15.csv")
     </code>
 </div>
-
-<small>Note that the code above requires the `downloader` package.</small>
 
 ### Data description
 

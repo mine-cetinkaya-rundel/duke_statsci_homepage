@@ -21,9 +21,12 @@ Below are some of the datasets used in my courses. Click on the links for codebo
 * friday.csv
 * gss_wordsum_class.csv
 * hand.csv
+* [kissing.csv](kissing.html) - Data from couples on which side they turn to kiss
 * LAhomes.csv
+* [movies.Rdata](movies.html) - Movies data from IMDB and Rotten Tomatoes
 * murder.csv
 * nc.RData
+* [nc_bike_crash.csv](nc_bike_crash.html) - Data from NC bike crashes
 * prentht.csv
 * [surveyS15.csv](surveyS15.html) - Data from the class survey designed by Duke Sta 101 students in Spring 2015.
 * vacc_malaria.csv

@@ -5,6 +5,7 @@ title: acs.RData
 
 ### Get the data
 
+
 Two options listed below:
 
 1. Click <a href="acs.RData" download="acs.RData">
@@ -16,12 +17,9 @@ Two options listed below:
 
 <div class="highlight">
     <code>
-    > download("https://stat.duke.edu/~mc301/data/acs.RData", destfile = "acs.RData") <br><br>
-    > acs = read.csv("acs.RData")
+    load(url(https://stat.duke.edu/~mc301/data/acs.RData))
     </code>
 </div>
-
-<small>Note that the code above requires the `downloader` package.</small>
 
 ### Data description
 
