@@ -50,7 +50,7 @@ image:
 
 * [Connecting data, analysis, and results using a reproducible framework](https://bitly.com/reproduce_uscots15_slides), with Horton, N. United States Conference On Teaching Statistics. State College, PA. May 2015.
 
-* [Raising better scientsts](https://bitly.com/reproduce_uscots15_slides). Duke Tech Expo 2015. Durham, NC. April 2015.
+* [Raising better scientsts](http://reproducible-science-curriculum.github.io/duke-techexpo2015/mine/teach_reproduce_TechExpo2015.pdf). Duke Tech Expo 2015. Durham, NC. April 2015.
 
 * [Interactivity online and on-campus: Data Analysis and Statistical Inference](https://www.dropbox.com/s/dc6wh1o60uwd54h/cpc2015_poster.pdf?dl=0), Coursera Partners Conference. Orange County, CA. March 2015. [poster]
 
