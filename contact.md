@@ -7,13 +7,12 @@ image:
   feature: letters.jpg
 ---
 
-My office is 213 Old Chemistry and my office hours for Fall 2015 are as 
-follows:
+My office is 213 Old Chemistry and my office hours for Spring 2016 TBA:
 
 <ul class="fa-ul">
-  <li><i class="fa-li fa fa fa-hourglass-3"></i>Sta 101: Tue + Thur 4:30 - 6pm</li>
-  <li><i class="fa-li fa fa fa-hourglass-3"></i>Sta 112: Mon 3:30 - 4:30pm and Wed 1:30 - 2:30pm</li>
-  <li><i class="fa-li fa fa fa-hourglass-3"></i>DUS: Tue + Thur 12:30 - 1:30pm and Wed 2:30-3:30pm</li>
+  <li><i class="fa-li fa fa fa-hourglass-3"></i>Sta 101: TBA</li>
+  <li><i class="fa-li fa fa fa-hourglass-3"></i>Sta 771S: By appointment</li>
+  <li><i class="fa-li fa fa fa-hourglass-3"></i>DUS: TBA</li>
 </ul>
 
 <br>
@@ -35,4 +34,4 @@ Durham, NC 27708-0251 <br></li>
 
 <br>
 
-<iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;mode=WEEK&amp;height=600&amp;wkst=2&amp;bgcolor=%23ffffff&amp;src=cetinkaya.mine%40gmail.com&amp;color=%232952A3&amp;ctz=America%2FNew_York" style=" border-width:0 " width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://www.google.com/calendar/embed?mode=WEEK&amp;height=600&amp;wkst=2&amp;bgcolor=%23ffffff&amp;src=cetinkaya.mine%40gmail.com&amp;color=%23182C57&amp;ctz=America%2FNew_York" style=" border-width:0 " width="800" height="600" frameborder="0" scrolling="no"></iframe>
