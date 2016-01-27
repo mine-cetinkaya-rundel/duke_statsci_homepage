@@ -9,8 +9,9 @@ image:
 
 ### Currently teaching (Fall 2015):
 
-* [Sta 101](https://stat.duke.edu/courses/Fall15/sta101.002/) :: <small>[SOURCE ON GITHUB](https://github.com/mine-cetinkaya-rundel/sta101_f15)</small>
-* [Sta 112FS](https://stat.duke.edu/courses/Fall15/sta112.01/) :: <small>SOURCE ON GITHUB - to be posted soon</small>
+* [Sta 101 - Data Analysis and Statistical Inference](https://www2.stat.duke.edu/courses/Spring16/sta101.001/) :: <small>[SOURCE ON GITHUB](https://github.com/mine-cetinkaya-rundel/sta101-s16)</small>
+* Sta 582 - DataFest
+* [Sta 771S - Teaching Statistics](https://www2.stat.duke.edu/courses/Spring16/sta771.01/)
 
 ### Coursera:
 
@@ -24,6 +25,7 @@ image:
 ### Past semesters:
 
 * Sta 101 - Data Analysis and Statistical Inference
+    + [Sta 101](https://stat.duke.edu/courses/Fall15/sta101.002/) :: <small>[SOURCE ON GITHUB](https://github.com/mine-cetinkaya-rundel/sta101_f15)</small>
     + [Spring 2015](https://stat.duke.edu/courses/Spring15/sta101.001/) :: <small>[SOURCE ON GITHUB](https://github.com/mine-cetinkaya-rundel/sta101_sp15)
     + [Fall 2014](https://stat.duke.edu/courses/Fall14/sta101.001/)
     + [Fall 2013](https://stat.duke.edu/courses/Fall13/sta101/)
@@ -38,6 +40,7 @@ image:
     + [Summer 2013](https://stat.duke.edu/courses/Summer13/sta104.01-1/)
 
 * Sta 112FS - Better Living Through Data Science (Focus)
+    + [Fall 2015](https://stat.duke.edu/courses/Fall15/sta112.01/) :: <small>[SOURCE ON GITHUB](https://github.com/mine-cetinkaya-rundel/sta112_f15)</small>
     + [Fall 2014](https://stat.duke.edu/courses/Fall14/sta112.01/)
 
 * FOCUS 195FS - Special Topics in Focus 

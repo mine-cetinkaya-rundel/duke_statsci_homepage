@@ -10,9 +10,13 @@ image:
 My office is 213 Old Chemistry and my office hours for Spring 2016 TBA:
 
 <ul class="fa-ul">
-  <li><i class="fa-li fa fa fa-hourglass-3"></i>Sta 101: TBA</li>
+  <li><i class="fa-li fa fa fa-hourglass-3"></i>Sta 101:</li>
+    <ul>
+        <li>Tuesdays 4-5:30pm at Soc Sci 139 (Discussion Section)</li> 
+        <li>Thursdays 10:30am - 12pm at my office</li>
+    </ul>
   <li><i class="fa-li fa fa fa-hourglass-3"></i>Sta 771S: By appointment</li>
-  <li><i class="fa-li fa fa fa-hourglass-3"></i>DUS: TBA</li>
+  <li><i class="fa-li fa fa fa-hourglass-3"></i>DUS: Tuesdays 2:15pm - 3:45pm</li>
 </ul>
 
 <br>
