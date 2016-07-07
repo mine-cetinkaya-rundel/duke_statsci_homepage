@@ -16,9 +16,10 @@ reproducible research, and open-source education.
 
 ### Interested in majoring in statistics? 
 
-If you would like to meet to discuss the Statistical Science major, drop 
-by during my DUS office hours (Fall 2015: Tuesdays and Thursdays 12:30 - 
-1:30pm or Wednesdays 2:30-3:30pm). Also visit the 
+If you would like to meet to discuss the Statistical Science major, 
+<a href="mailto:mine@stat.duke.edu">send me an email</a> to schedule 
+an appointment. In Fall 2016 I will generally be available Mondays and
+Wednesdays 5-6pm. Also visit the 
 <a href="https://stat.duke.edu/undergraduate-program.html">department 
 website</a> as many of your questions can also be answered there. Of 
 course, I'm always happy to chat!
