@@ -9,6 +9,14 @@ image:
 
 ### Invited talks:
 
+* [Bayesian baby steps](https://github.com/mine-cetinkaya-rundel/2016-04-28-bayesian-baby-steps-opre/blob/master/bayesian_baby_steps_OPRE.pdf). OPRE, Washington, DC. April 2016.
+
+* [Incorporating visualization into statistics education](https://github.com/mine-cetinkaya-rundel/2016-03-04-viz-forum/blob/master/2016-03-04-viz-forum.pdf). Duke University. Durham, NC. March 2016.
+
+* [Making your research reproducible with Project TIER, R, and GitHub](https://github.com/mine-cetinkaya-rundel/2016-02-12-project-tier-duke). Duke University. Durham, NC. February 2016.
+
+* [Making your research reproducible: Documenting and automating your data analysis in R](https://github.com/mine-cetinkaya-rundel/2016-01-11-reproducible-research-unc). UNC L.L. Thurstone Psychometric Laboratory Methods' Forum. Chapel Hill, NC. January 2016.
+
 * [Teaching to, and learning from, the masses](https://www.dropbox.com/s/s5sp6ly5zsatlfd/jsm2015_teach_to_learn_from_masses.pdf?dl=0). Joint Statistical Meetings. Seattle, WA. August 2015.
 
 * [Expanding R exposure through early introduction in the undergraduate curriculum](https://github.com/mine-cetinkaya-rundel/rsummit-2015). R Summit. Copenhagen, Denmark. June 2015.
@@ -45,6 +53,10 @@ image:
 
 
 ### Contributed presentations and posters:
+
+* [A first-year undergraduate data science course](https://github.com/mine-cetinkaya-rundel/2016-06-27-first-ds-course-user/blob/master/first_ds_course.pdf). useR. Palo Alto, CA. July 2016.
+
+* [Technology lowering barriers: get started with R at the snap of a finger](https://github.com/mine-cetinkaya-rundel/2016-05-17-tech-lower-barriers-ecots), with Nicholas Horton. eCOTS. May 2016.
 
 * [Using R, RStudio, and Docker for introductory statistics teaching](https://github.com/mine-cetinkaya-rundel/useR-2015). useR. Aalborg, Denmark. July 2015.
 
