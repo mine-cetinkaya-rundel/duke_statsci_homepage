@@ -6,7 +6,7 @@ image:
   feature: mine_large.png
 ---
 
-I am the Director of Undergraduate Studies and an Assistant Professor of 
+I am the Director of Undergraduate Studies and an Associate Professor of 
 the Practice in the Department of Statistical Science at Duke University.
 I received my Ph.D. in Statistics from the University of California, Los 
 Angeles, and a B.S. in Actuarial Science from New York University's 
@@ -18,11 +18,9 @@ reproducible research, and open-source education.
 
 If you would like to meet to discuss the Statistical Science major, 
 <a href="mailto:mine@stat.duke.edu">send me an email</a> to schedule 
-an appointment. In Fall 2016 I will generally be available Mondays and
-Wednesdays 5-6pm. Also visit the 
+an appointment. Also visit the 
 <a href="https://stat.duke.edu/undergraduate-program.html">department 
-website</a> as many of your questions can also be answered there. Of 
-course, I'm always happy to chat!
+website</a> as many of your questions can also be answered there.
 
 ### Pedagogy
 
