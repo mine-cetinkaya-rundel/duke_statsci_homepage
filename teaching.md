@@ -7,23 +7,13 @@ image:
   feature: classroom.jpg
 ---
 
+### Fall 2016 & Spring 2017
+
 I will be on teaching leave in Fall 2016 and Spring 2017.
 
-### Currently teaching
+### Past semesters:
 
 * [ARTSCI 101 - From Data to Insight](http://www.stat.duke.edu/~mc301/ARTSCI101_Su16/) - Summer 2016, Session 1
-
-### Coursera:
-
-* [Statistics with R Specialization](https://www.coursera.org/specializations/statistics) - available on demand
-* [Data Analysis and Statistical Inference](https://www.coursera.org/course/statistics)
-    + September 2015, March 2015, September 2014, February 2014
-* [Specialization: Reasoning, Data Analysis and Writing](https://www.coursera.org/specialization/reasoning/8?utm_medium=courseDescripTop)
-    + January 2015
-* [Teaching Statistical Thinking](https://www.coursera.org/course/teachstats1)
-    + October 2014
-
-### Past semesters:
 
 * STA 101 - Data Analysis and Statistical Inference
     + [Spring 2016](https://www.stat.duke.edu/courses/Spring16/sta101.001/) :: <small>[SOURCE ON GITHUB](https://github.com/mine-cetinkaya-rundel/sta101-s16)</small>
@@ -63,6 +53,15 @@ I will be on teaching leave in Fall 2016 and Spring 2017.
 * STA 771S - Teaching Statistics
     + [Spring 2016](https://www2.stat.duke.edu/courses/Spring16/sta771.01/) :: <small>[SOURCE ON GITHUB](https://github.com/mine-cetinkaya-rundel/sta771s-s16)</small>
 
+### Coursera:
+
+* [Statistics with R Specialization](https://www.coursera.org/specializations/statistics) - available on demand
+* [Data Analysis and Statistical Inference](https://www.coursera.org/course/statistics)
+    + September 2015, March 2015, September 2014, February 2014
+* [Specialization: Reasoning, Data Analysis and Writing](https://www.coursera.org/specialization/reasoning/8?utm_medium=courseDescripTop)
+    + January 2015
+* [Teaching Statistical Thinking](https://www.coursera.org/course/teachstats1)
+    + October 2014
 
 ### Courses taught at UCLA
 

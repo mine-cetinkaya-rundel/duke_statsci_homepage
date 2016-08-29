@@ -1,5 +1,5 @@
 REMOTEUSER ?= mc301
-REMOTEHOST ?= bravo.stat.duke.edu
+REMOTEHOST ?= smith.stat.duke.edu
 REMOTEDIR ?= ~/.public_html
 REMOTE ?= $(REMOTEUSER)@$(REMOTEHOST):$(REMOTEDIR)
 

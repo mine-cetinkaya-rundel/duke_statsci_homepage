@@ -7,7 +7,7 @@ image:
   feature: letters.jpg
 ---
 
-My office is 213 Old Chemistry and my office hours for Summer 2016 for ARTSCI 101 are Tuesdays and Thursdays 5-6pm.
+Since I am not teaching in Fall 2016 and Spring 2017 I will not be holding weekly office hours. If you have questions regarding the Statistical Science major or minor or any other DUS related questions, please email me.
 
 <!--
 <ul class="fa-ul">

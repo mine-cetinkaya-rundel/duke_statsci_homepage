@@ -9,6 +9,8 @@ image:
 
 ### Invited talks:
 
+* [Integrating reproducibility into the undergraduate statistics curriculum](https://github.com/mine-cetinkaya-rundel/2016-08-03-reproducible-undergrad-stats/blob/master/ugrad_repro_jsm2016.pdf). Joint Statistical Meetings. Chicago, IL. August 2016. 
+
 * [Bayesian baby steps](https://github.com/mine-cetinkaya-rundel/2016-04-28-bayesian-baby-steps-opre/blob/master/bayesian_baby_steps_OPRE.pdf). OPRE, Washington, DC. April 2016.
 
 * [Incorporating visualization into statistics education](https://github.com/mine-cetinkaya-rundel/2016-03-04-viz-forum/blob/master/2016-03-04-viz-forum.pdf). Duke University. Durham, NC. March 2016.
