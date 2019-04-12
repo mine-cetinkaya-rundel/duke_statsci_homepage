@@ -16,10 +16,25 @@ Two options listed below:
 
 <div class="highlight">
     <code>
-    bike <- read.csv("https://stat.duke.edu/~mc301/data/nc_bike_crash.csv",
-    stringsAsFactors = FALSE)    
+	bike <- read.csv("https://stat.duke.edu/~mc301/data/nc_bike_crash.csv", 
+	sep = ";", stringsAsFactors = FALSE, na.strings = c("NA", "", "."))    
     </code>
 </div>
+
+or
+
+<div class="highlight">
+    <code>
+    library(readr)
+    </code>
+    <br>
+    <code>
+	bike <- read_csv2("https://stat.duke.edu/~mc301/data/nc_bike_crash.csv", 
+	na = c("NA", "", "."))   
+    </code>
+</div>
+
+
 
 ### Data description
 
