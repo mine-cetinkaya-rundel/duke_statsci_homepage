@@ -20,6 +20,12 @@ image:
 
 ### Peer Reviewed & Invited Papers:
 
+* **Çetinkaya-Rundel M.** and Rundel C. [Infrastructure and tools for teaching computing throughout the statistical curriculum](http://www.tandfonline.com/doi/abs/10.1080/00031305.2017.1397549). The American Statistician, just accepted (2017).
+
+* Prakalapakorn S.G., Freedman S.F., Hutchinson A.K., Saehout, **Çetinkaya-Rundel M.**, Wallace D.K., and Kulvichit K. Real-world simulation of an alternative retinopathy of prematurity screening system: telemedicine grading of images obtained by a health care worker using a portable, non-contact digital fundus camera in Thailand: a pilot study. Journal of Pediatric Ophthalmology and Strabismus, just accepted (2017).
+
+* Shapiro H. B., Lee C. H., Roth N. E. W., Li K.,  **Çetinkaya-Rundel M.**, \& Canelas D. A. (2017). [Understanding the massive open online course (MOOC) student experience: An examination of attitudes, motivations, and barriers](http://www.sciencedirect.com/science/article/pii/S0360131517300519). Computers \& Education, 110, 35-50.
+
 * Feldblum J. T., Wroblewski E. W., Rudicell R. S., Hahn B. H.,  Paiva T., **Çetinkaya-Rundel M.**, Pusey, A. E., & Gilby, I. C. (2014) [Sexually Coercive Male Chimpanzees Sire More Offspring](http://www.cell.com/current-biology/abstract/S0960-9822(14)01348-7). Current Biology. In print. doi: 10.1016/j.cub.2014.10.039.
 
 * Baumer B., **Çetinkaya-Rundel M.**, Bray A., Loi L., Horton N. (2014) [R Markdown: Integrating A Reproducible Analysis Tool into Introductory Statistics](http://escholarship.org/uc/item/90b2f5xh). Technology Innovations in Statistics Education, 8(1).
@@ -37,7 +43,8 @@ image:
 
 ### Papers In Preparation:
 
-* Bean S., Bentley R., **Çetinkaya-Rundel M.**, Scanlon M. Development of a Case-Based Measure of Pathology Resident Performance: the trainee review field.
+* \item Robinson J., Manturuk K., **Çetinkaya-Rundel M.**, Canelas D. Learner Social Presence and Sense of Community in Introductory-level MOOCs. The International Review of Research in Open and Distance Learning.
+
 
 ### Other:
 
@@ -48,6 +55,9 @@ image:
 * Behseta S., **Çetinkaya-Rundel M.** (2014) [Interview with Jim Berger](http://chance.amstat.org/2014/04/interview-with-berger), Chance Magazine. Vol. 27, No. 2.
 
 * CHANCE Magazine's Statistics Education Column - Taking a Chance in the Classroom, co-edited with Stangl, D.:
+    
+    + **Çetinkaya-Rundel M.**, Stangl D.K. (2017) [An Interview with Mine Çetinkaya-Rundel](https://chance.amstat.org/2017/04/interview-mine-cetinkaya-rundel/). Vol. 30, No. 2.
+    + Rundel C., **Çetinkaya-Rundel M.**, (2016) [La Quinta is Spanish for "Next to Denny's"](http://chance.amstat.org/2016/04/la-quinta/). Vol. 29, No. 2.
     + McClintock S., **Çetinkaya-Rundel M.**, Stangl D.K. (2014) [A Classroom Project for Generation Z](http://chance.amstat.org/2014/11/classroom/). Vol. 27, No. 4.
     + Bray A., **Çetinkaya-Rundel M.**, Stangl D.K. (2014) [Five Concrete Reasons Your Students Should Be Learning to Analyze Data in the Reproducible Paradigm](http://chance.amstat.org/2014/09/reproducible-paradigm/). Vol. 27, No. 3.
     + Morgan K.L., **Çetinkaya-Rundel M.**, Stangl D.K. (2014) [Speed Dating: Exploring Initial Romantic Attraction](http://chance.amstat.org/2014/04/speed-dating/). Vol. 27, No. 2.

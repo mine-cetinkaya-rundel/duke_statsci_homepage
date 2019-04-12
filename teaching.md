@@ -7,24 +7,28 @@ image:
   feature: classroom.jpg
 ---
 
-### Fall 2016 & Spring 2017
+### Spring 2018
 
-I will be on teaching leave in Fall 2016 and Spring 2017.
+* STA 199 - Intro to Data Science
+    + [Spring 2018](http://www2.stat.duke.edu/courses/Spring18/Sta199/) :: <small>[SOURCE ON GITHUB](https://github.com/Sta199-S18)</small>
+    
 
 ### Past semesters:
 
 * [ARTSCI 101 - From Data to Insight](http://www.stat.duke.edu/~mc301/ARTSCI101_Su16/) - Summer 2016, Session 1
 
 * STA 101 - Data Analysis and Statistical Inference
-    + [Spring 2016](https://www.stat.duke.edu/courses/Spring16/sta101.001/) :: <small>[SOURCE ON GITHUB](https://github.com/mine-cetinkaya-rundel/sta101-s16)</small>
-    + [Fall 2015](https://stat.duke.edu/courses/Fall15/sta101.002/) :: <small>[SOURCE ON GITHUB](https://github.com/mine-cetinkaya-rundel/sta101_f15)</small>
-    + [Spring 2015](https://stat.duke.edu/courses/Spring15/sta101.001/) :: <small>[SOURCE ON GITHUB](https://github.com/mine-cetinkaya-rundel/sta101_sp15)
-    + [Fall 2014](https://stat.duke.edu/courses/Fall14/sta101.001/)
-    + [Fall 2013](https://stat.duke.edu/courses/Fall13/sta101/)
-    + [Spring 2013](https://stat.duke.edu/courses/Spring13/sta101.001/)
-    + [Fall 2012](https://stat.duke.edu/courses/Fall12/sta101.001/)
-    + [Spring 2012](https://stat.duke.edu/courses/Spring12/sta101.1/)
-    + [Fall 2011](https://stat.duke.edu/courses/Fall11/sta101.02/)
+    + Resource: [STA 101 Labs](../101_labs/)
+    + Past course pages:
+        + [Spring 2016](https://www.stat.duke.edu/courses/Spring16/sta101.001/) :: <small>[ SOURCE ON GITHUB](https://github.com/mine-cetinkaya-rundel/sta101-s16)</small>
+        + [Fall 2015](https://stat.duke.edu/courses/Fall15/sta101.002/) :: <small>[SOURCE ON    GITHUB](https://github.com/mine-cetinkaya-rundel/sta101_f15)</small>
+        + [Spring 2015](https://stat.duke.edu/courses/Spring15/sta101.001/) :: <small>[ SOURCE ON GITHUB](https://github.com/mine-cetinkaya-rundel/sta101_sp15)
+        + [Fall 2014](https://stat.duke.edu/courses/Fall14/sta101.001/)
+        + [Fall 2013](https://stat.duke.edu/courses/Fall13/sta101/)
+        + [Spring 2013](https://stat.duke.edu/courses/Spring13/sta101.001/)
+        + [Fall 2012](https://stat.duke.edu/courses/Fall12/sta101.001/)
+        + [Spring 2012](https://stat.duke.edu/courses/Spring12/sta101.1/)
+        + [Fall 2011](https://stat.duke.edu/courses/Fall11/sta101.02/)
 
 * STA 104 - Data Analysis and Statistical Inference (Online)
     + [Summer 2015](https://stat.duke.edu/courses/Summer15/sta104.01-1/) :: <small>[SOURCE ON GITHUB](https://github.com/mine-cetinkaya-rundel/sta104_su15)</small>
@@ -32,6 +36,7 @@ I will be on teaching leave in Fall 2016 and Spring 2017.
     + [Summer 2013](https://stat.duke.edu/courses/Summer13/sta104.01-1/)
 
 * STA 112FS - Better Living Through Data Science (Focus)
+    + [Fall 2017](http://www2.stat.duke.edu/courses/Fall17/sta112.01/) :: <small>[SOURCE ON GITHUB](https://github.com/Sta112-F17)</small>
     + [Fall 2015](https://stat.duke.edu/courses/Fall15/sta112.01/) :: <small>[SOURCE ON GITHUB](https://github.com/mine-cetinkaya-rundel/sta112_f15)</small>
     + [Fall 2014](https://stat.duke.edu/courses/Fall14/sta112.01/)
 

@@ -9,6 +9,18 @@ image:
 
 ### Invited talks:
 
+* [Data Science, from the ground up](https://github.com/mine-cetinkaya-rundel/2017-11-10-data-sci-ground-up-ncf/blob/master/data-sci-ground-up.pdf). New College of Florida. Sarasota, FL. Nov 2017.
+
+* [The Future of Online Education at Duke](https://learninginnovation.duke.edu/nextedfest/event/the-future-of-online-education-at-duke/). With White L., Lasch P., Zychowicz M., and Chambers J. Duke University. Durham, NC. Nov 2017.
+
+* [A First-Year Undergraduate Data Science Course](https://github.com/mine-cetinkaya-rundel/novel-first-stat-ds-jsm2017/blob/master/03-cetinkaya-rundel/first-year-ugrad-ds.pdf). Joint Statistical Meetings. Baltimore, MD. August 2017. 
+
+* [Teaching Data Science to new useRs](https://github.com/mine-cetinkaya-rundel/2017-07-05-teach-ds-to-new-user/blob/master/teach-ds-to-new-user.pdf). useR. Brussels, Belgium. July 2017. (Keynote)
+
+* [Teaching Data Science and Statistical Computation to Undergraduates](https://github.com/mine-cetinkaya-rundel/data-science-uscots-2017/blob/master/01-pleanary/ugrad-ds-sc.pdf). United States Conference On Teaching Statistics. State College, PA. May 2017. (Pleanary + Breakout session)
+
+* [Open Education Resources](https://github.com/mine-cetinkaya-rundel/oer-tango-uscots-2017). United States Conference On Teaching Statistics. State College, PA. May 2017.
+
 * [Integrating reproducibility into the undergraduate statistics curriculum](https://github.com/mine-cetinkaya-rundel/2016-08-03-reproducible-undergrad-stats/blob/master/ugrad_repro_jsm2016.pdf). Joint Statistical Meetings. Chicago, IL. August 2016. 
 
 * [Bayesian baby steps](https://github.com/mine-cetinkaya-rundel/2016-04-28-bayesian-baby-steps-opre/blob/master/bayesian_baby_steps_OPRE.pdf). OPRE, Washington, DC. April 2016.
@@ -54,7 +66,23 @@ image:
 * [Integrating Team-Based Learning Across Disciplines: Ideas and Challenges](http://stat.duke.edu/~mc301/talks/TBL_CIT2013.pdf), with Vidra, R. and Gauthier, D. CIT Showcase at Duke University. Durham, NC. April 2013.
 
 
-### Contributed presentations and posters:
+### Presentations, workshops, and posters:
+
+* R-Ladies Panel: Improving gender diversity in a male-dominated community. With Bryan J., D'Agostino McGowan L., de Queiroz G., Dogucu M., Scranton K., and Thompson J.  WSDS. San Diego, CA. October 2017.
+
+* [Data Carpentry: Teaching Reproducible Data Driven Discovery](https://schd.ws/hosted_files/user2017/08/2017-useR-datacarpentry-presentation.pdf). With Teal T. and Michonneau F. useR 2017. Belgium, Brussels. July 2017.
+
+* [Data Carpentry: Open and Reproducible Research with R](https://github.com/fmichonneau/2017-useR-reproducibility/). With Rundel C. and Michonneau F. useR 2017. Belgium, Brussels. July 2017. (Workshop) 
+
+* [R-Ladies RTP: Functional programming with purrr](https://github.com/rladies/meetup-presentations_rtp/tree/master/2017-10-26-purrr). Transloc. RTP, NC. October 2017. (Workshop)
+
+* [SSNAP Workshop: (1) Introduction to Data, (2) Statistical Inference, (3) Reproducible Computing](https://github.com/mine-cetinkaya-rundel/ssnap-2017). Duke University. Durham, NC. May 2017.
+
+* [R-Ladies RTP: R / git / GitHub](https://github.com/rladies/meetup-presentations_rtp/blob/master/2017-02-09-rgitgithub/rtp-rgitgithub-02-07-17.Rmd). Duke University. Durham, NC. Feb 2017. (Workshop)
+
+* [R-Ladies RTP: Everything R Markdown](https://github.com/rladies/meetup-presentations_rtp/blob/master/2016-12-13-rmarkdown/rtp-rmarkdown-12-13-16.Rmd}). Duke University. Durham, NC. Dec 2016. (Workshop)
+
+* [R-Ladies RTP: Data Manipulation](https://github.com/rladies/meetup-presentations_rtp/tree/master/2016-09-22-data-manipulation). Duke University. Durham, NC. September 2016. (Workshop)
 
 * [A first-year undergraduate data science course](https://github.com/mine-cetinkaya-rundel/2016-06-27-first-ds-course-user/blob/master/first_ds_course.pdf). useR. Palo Alto, CA. July 2016.
 

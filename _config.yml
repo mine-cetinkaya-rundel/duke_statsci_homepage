@@ -8,7 +8,7 @@ url: https://stat.duke.edu/~mc301
 owner:
   name:           Mine Çetinkaya-Rundel
   avatar:         avatar.png
-  bio:            "Assistant Professor of the Practice, Duke University"
+  bio:            "Associate Professor of the Practice, Duke University"
   email:          mine@stat.duke.edu
   twitter:        minebocek
   github:         mine-cetinkaya-rundel
@@ -59,15 +59,8 @@ kramdown:
   toc_levels: 1..6
   enable_coderay: false
 
-  coderay:
-    coderay_line_numbers:
-    coderay_line_numbers_start: 1
-    coderay_tab_width: 4
-    coderay_bold_every: 10
-    coderay_css: class
-
 sass:
-    style: :compressed
+  style: :compressed
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title
