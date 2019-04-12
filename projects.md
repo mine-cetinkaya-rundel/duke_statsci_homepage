@@ -11,8 +11,9 @@ image:
 
 OpenIntro was started with one goal in mind: create a free and open-source introductory textbook. The mission of OpenIntro is to make educational products that are free, transparent, and lower barriers to education. I am a co-author on the three textbooks developed as part of this project and I also work on developing supplementary materials such as R labs, lecture slides, answer keys for instructors. Find out more at [openintro.org](https://www.openintro.org/index.php).
 
-
 ### MOOCs - Course development:
+
+* I am currently teaching the [Statistics with R Specialization](https://www.coursera.org/specializations/statistics) on Coursera. This specialization contains content from my previous [Data Analysis and Statistical Inference](https://www.coursera.org/course/statistics) course as well as a new course on Bayesian Statistics and a capstone project.
 
 * I have developed and taught the popular MOOC [Data Analysis and Statistical Inference](https://www.coursera.org/course/statistics) on Coursera. 
 
